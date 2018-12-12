@@ -1,4 +1,0 @@
-aaa
-a
-wwww
-eeee
